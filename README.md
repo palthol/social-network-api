@@ -78,6 +78,9 @@ social-network-api
 
 2. Use a tool like Postman to interact with the API endpoints.
 
+3. [Click here to view the walkthrough](https://drive.google.com/file/d/1QKAOA6yurm491qzZ4xIHzk_6zCby_nSP/view?usp=sharing)
+
+
 ## API Endpoints
 
 ### Users
